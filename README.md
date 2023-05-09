@@ -8,6 +8,12 @@
 Контакты:
 [ссылка на тг](https://t.me/Artemiy_1995_2)
 
+Сертификаты с пройденных курсов:
+![сертификат](stepik-certificate-129-ed3944e.pdf)
+![сертификат](stepik-certificate-524-1e415b5.pdf)
+![сертификат](stepik-certificate-58852-7e25c14.pdf)
+![сертификат](stepik-certificate-76-a29201b.pdf)
+
 
 
 <!--
