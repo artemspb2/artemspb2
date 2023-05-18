@@ -10,6 +10,7 @@
 [ссылка на тг](https://t.me/Artemiy_1995_2)
 
 Сертификаты с пройденных курсов:
+![сертификат](https://stepik.org/cert/2065087)
 ![сертификат](stepik-certificate-58852-7e25c14-1.png)
 ![сертификат](stepik-certificate-63054-767ec98-1.png)
 ![сертификат](stepik-certificate-76-a29201b-1.png)
