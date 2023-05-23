@@ -1,15 +1,18 @@
-### Здравствуйте! 👋
+### Здравствуйте!/Hello! 👋
 
 ***
-О себе
+О себе/About me
 
 Меня зовут Артем Давыдов, с ноября 2022 года я изучаю аналитику данных. Ранее я занимался анализом данных в рамках социологии и опросов населения.
 Для углубления знаний в анализе прошел несколько онлайн курсов, с помощью которых освоил Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. На академических проектах практиковался в проведении статистических тестов, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
 
-Контакты:
+My name is Artem Davydov, I have been studying data analytics since November 2022. Previously I was engaged in data analysis in sociology and population surveys. To deepen my knowledge in analysis I took some online courses, with the help of which I mastered Python, SQL, mathematical statistics, probability theory, product metrics and frameworks for product development. On academic projects practiced in conducting statistical tests, creating dashboards in Tableau, the use of GIT and AIRFLOW.
+
+
+Контакты/Contacts:
 [ссылка на тг](https://t.me/Artemiy_1995_2)
 
-Сертификаты с пройденных курсов:
+Сертификаты с пройденных курсов/certificates from completed courses:
 ![сертификат](stepik-certificate-68343-47fe8b7-1.png))
 ![сертификат](stepik-certificate-58852-7e25c14-1.png)
 ![сертификат](stepik-certificate-63054-767ec98-1.png)
