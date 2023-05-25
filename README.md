@@ -13,7 +13,7 @@ My name is Artem Davydov, I have been studying data analytics since November 202
 [ссылка на тг](https://t.me/Artemiy_1995_2)
 
 Сертификаты с пройденных курсов/certificates from completed courses:
-![сертификат](stepik-certificate-68343-47fe8b7-1.png))
+![сертификат](stepik-certificate-68343-47fe8b7 (1)-1.png))
 ![сертификат](stepik-certificate-58852-7e25c14-1.png)
 ![сертификат](stepik-certificate-63054-767ec98-1.png)
 ![сертификат](stepik-certificate-76-a29201b-1.png)
