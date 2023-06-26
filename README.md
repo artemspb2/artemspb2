@@ -19,6 +19,7 @@ My name is Artem Davydov, I have been studying data analytics since November 202
 ![сертификат](stepik-certificate-63054-767ec98-1.png)
 ![сертификат](stepik-certificate-76-a29201b-1.png)
 ![сертификат](stepik-certificate-129-ed3944e-1.png)
+![сертификат](regex_stepik_certificate.png)
 
 
 <!--
